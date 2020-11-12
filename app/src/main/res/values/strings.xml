@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToastExample</string>
+    <string name="simple_toast">Simple Toast</string>
+    <string name="nested_toast">nested toast</string>
+</resources>
